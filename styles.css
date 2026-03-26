@@ -1,4 +1,30 @@
 * {
     box-sizing: border-box;
 }
+html{
+    background-color: grey;
+}
+h1 {
+    background-color: pink;
+    color: white;
+}
 
+#p1{
+    color: yellow;
+}
+
+.p2 {
+    color: greenyellow;
+}
+.p3{
+    color: lightblue;
+}
+.border1{
+    border: 5px solid orange;
+    background-color: white;
+    padding: 25px;
+}
+
+.white-text{
+    color: white;
+}
