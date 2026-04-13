@@ -15,9 +15,11 @@ h1 {
 
 .p2 {
     color: greenyellow;
+    display:inline-block
 }
 .p3{
     color: lightblue;
+    display:inline
 }
 .border1{
     border: 5px solid orange;
